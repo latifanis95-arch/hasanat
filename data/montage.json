@@ -1,0 +1,48 @@
+{
+  "creation": {
+    "intro": [
+      "dark clouds",
+      "fog forest"
+    ],
+    "introStyle": "sombre",
+    "introAllowConstruction": false,
+    "themes": {
+      "espace": [
+        "milky way",
+        "night sky timelapse",
+        "earth from space",
+        "moon",
+        "starry sky"
+      ],
+      "ciel": [
+        "clouds timelapse",
+        "lightning storm",
+        "sunset sky",
+        "aurora borealis"
+      ],
+      "terre": [
+        "waterfall",
+        "mountains aerial",
+        "ocean waves",
+        "forest aerial",
+        "volcano",
+        "desert dunes",
+        "canyon",
+        "glacier"
+      ],
+      "enfer": [
+        "lava flow",
+        "volcano eruption",
+        "magma",
+        "fire flames"
+      ]
+    },
+    "clipsPerQuery": 1,
+    "defaultThemes": [
+      "terre",
+      "ciel",
+      "espace"
+    ],
+    "cut": 0.5
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "hasanat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kit gratuit pour fabriquer des vidéos courtes de Coran (TikTok, Reels, Shorts) : vrai récitateur, texte arabe qui s'illumine, traduction, légende.",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "video": "node src/cli.ts make",
+    "verifier": "node src/cli.ts verifier",
+    "ambiances": "node src/cli.ts ambiances",
+    "passages": "node src/cli.ts passages",
+    "themes": "node src/cli.ts themes",
+    "reciters": "node src/cli.ts reciters",
+    "formats": "node src/cli.ts formats",
+    "fonds": "node src/cli.ts fonds",
+    "phrases": "node src/cli.ts phrases",
+    "verset": "node src/cli.ts verset",
+    "menage": "node src/cli.ts menage",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "gsap": "3.15.0",
+    "hyperframes": "0.8.96"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.0",
+    "typescript": "^5.9.3"
+  }
+}

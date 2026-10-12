@@ -1,0 +1,16 @@
+# Clés privées : jamais sur GitHub
+.env
+.env.*
+!.env.example
+
+node_modules/
+output/
+.cache/
+.DS_Store
+Thumbs.db
+
+# Fichiers téléchargés chez chacun au premier lancement (licences Pixabay / Wikimedia) : jamais redistribués
+assets/ambiances/
+assets/textures/
+assets/backgrounds/*
+!assets/backgrounds/README.md

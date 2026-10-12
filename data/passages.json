@@ -1,0 +1,1508 @@
+[
+  {
+    "id": "muminun-84-89",
+    "ref": "23:84-89",
+    "themes": [
+      "tawhid"
+    ],
+    "hook": {
+      "fr": "À qui appartient la terre ?",
+      "en": "Who owns the earth?"
+    },
+    "montage": {
+      "86": [
+        "espace"
+      ],
+      "88": [
+        "espace",
+        "terre",
+        "ciel"
+      ],
+      "89": [
+        "ciel",
+        "terre"
+      ]
+    },
+    "drop": "85",
+    "mots": 45
+  },
+  {
+    "id": "kahf-13-14",
+    "ref": "18:13-14",
+    "themes": [
+      "foi",
+      "jeunesse",
+      "vendredi"
+    ],
+    "hook": {
+      "fr": "Des jeunes qui ont tenu bon",
+      "en": "Young believers who stood firm"
+    },
+    "mots": 30
+  },
+  {
+    "id": "kahf-10",
+    "ref": "18:10",
+    "themes": [
+      "invocation",
+      "vendredi"
+    ],
+    "hook": {
+      "fr": "L'invocation des gens de la caverne",
+      "en": "The du'a of the people of the cave"
+    },
+    "mots": 16
+  },
+  {
+    "id": "zumar-53",
+    "ref": "39:53",
+    "themes": [
+      "espoir",
+      "pardon"
+    ],
+    "hook": {
+      "fr": "Ne désespère jamais de la miséricorde d'Allah",
+      "en": "Never despair of Allah's mercy"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "ne désespérez pas de la miséricorde d’Allah",
+      "en": "do not despair of the mercy of Allāh"
+    },
+    "mots": 20
+  },
+  {
+    "id": "baqara-186",
+    "ref": "2:186",
+    "themes": [
+      "invocation",
+      "proximite"
+    ],
+    "hook": {
+      "fr": "Il est tout proche",
+      "en": "He is near"
+    },
+    "mots": 17
+  },
+  {
+    "id": "sharh-5-8",
+    "ref": "94:5-8",
+    "themes": [
+      "patience",
+      "espoir"
+    ],
+    "hook": {
+      "fr": "Après la difficulté, la facilité",
+      "en": "With hardship comes ease"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "A côté de la difficulté est, certes, une facilité !",
+      "en": "Indeed, with hardship [will be] ease."
+    },
+    "mots": 14
+  },
+  {
+    "id": "raad-28",
+    "ref": "13:28",
+    "themes": [
+      "apaisement",
+      "dhikr"
+    ],
+    "hook": {
+      "fr": "Ce qui apaise vraiment les cœurs",
+      "en": "What truly calms the heart"
+    },
+    "mots": 11
+  },
+  {
+    "id": "ankabut-57",
+    "ref": "29:57",
+    "themes": [
+      "mort",
+      "akhira"
+    ],
+    "hook": {
+      "fr": "Toute âme goûtera la mort",
+      "en": "Every soul will taste death"
+    },
+    "formats": [
+      "court"
+    ],
+    "mots": 7
+  },
+  {
+    "id": "imran-185",
+    "ref": "3:185",
+    "themes": [
+      "mort",
+      "dunya",
+      "jugement"
+    ],
+    "hook": {
+      "fr": "Cette vie n'est qu'une jouissance trompeuse",
+      "en": "This life is only the enjoyment of delusion"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Toute âme goûtera la mort.",
+      "en": "Every soul will taste death"
+    },
+    "mots": 23
+  },
+  {
+    "id": "rahman-26-27",
+    "ref": "55:26-27",
+    "themes": [
+      "mort",
+      "akhira"
+    ],
+    "hook": {
+      "fr": "Tout ce qui est sur terre disparaîtra",
+      "en": "Everyone upon the earth will perish"
+    },
+    "formats": [
+      "court"
+    ],
+    "mots": 10
+  },
+  {
+    "id": "mulk-1-2",
+    "ref": "67:1-2",
+    "themes": [
+      "mort",
+      "epreuve"
+    ],
+    "hook": {
+      "fr": "Il a créé la mort et la vie pour vous éprouver",
+      "en": "He created death and life to test you"
+    },
+    "mots": 20
+  },
+  {
+    "id": "baqara-286",
+    "ref": "2:286",
+    "themes": [
+      "epreuve",
+      "invocation",
+      "patience"
+    ],
+    "hook": {
+      "fr": "Allah n'impose à personne plus qu'il ne peut porter",
+      "en": "Allah does not burden a soul beyond what it can bear"
+    },
+    "mots": 49
+  },
+  {
+    "id": "qaf-16",
+    "ref": "50:16",
+    "themes": [
+      "proximite"
+    ],
+    "hook": {
+      "fr": "Plus proche que ta veine jugulaire",
+      "en": "Closer than your jugular vein"
+    },
+    "mots": 14
+  },
+  {
+    "id": "ghafir-60",
+    "ref": "40:60",
+    "themes": [
+      "invocation",
+      "proximite"
+    ],
+    "hook": {
+      "fr": "Invoquez-Moi, Je vous répondrai",
+      "en": "Call upon Me, I will respond to you"
+    },
+    "mots": 13
+  },
+  {
+    "id": "hadid-16",
+    "ref": "57:16",
+    "themes": [
+      "coeur",
+      "repentir",
+      "pardon"
+    ],
+    "hook": {
+      "fr": "Le moment n'est-il pas venu ?",
+      "en": "Has the time not come?"
+    },
+    "mots": 28
+  },
+  {
+    "id": "imran-190-191",
+    "ref": "3:190-191",
+    "themes": [
+      "creation",
+      "reflexion"
+    ],
+    "hook": {
+      "fr": "Des signes pour ceux qui réfléchissent",
+      "en": "Signs for those who reflect"
+    },
+    "drop": "190:3",
+    "mots": 32
+  },
+  {
+    "id": "baqara-152",
+    "ref": "2:152",
+    "themes": [
+      "dhikr",
+      "gratitude"
+    ],
+    "hook": {
+      "fr": "Souviens-toi de Lui, Il se souviendra de toi",
+      "en": "Remember Me, I will remember you"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Souvenez-vous de Moi donc, Je Me souviendrai de vous",
+      "en": "So remember Me; I will remember you"
+    },
+    "mots": 6
+  },
+  {
+    "id": "yusuf-86",
+    "ref": "12:86",
+    "themes": [
+      "tristesse",
+      "patience"
+    ],
+    "hook": {
+      "fr": "Je ne me plains qu'à Allah",
+      "en": "I only complain of my grief to Allah"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Je ne me plains qu’à Allah de mon déchirement et de mon chagrin.",
+      "en": "I only complain of my suffering and my grief to Allāh"
+    },
+    "mots": 13
+  },
+  {
+    "id": "taha-25-28",
+    "ref": "20:25-28",
+    "themes": [
+      "invocation"
+    ],
+    "hook": {
+      "fr": "L'invocation de Moussa",
+      "en": "The du'a of Musa"
+    },
+    "mots": 14
+  },
+  {
+    "id": "anbiya-87",
+    "ref": "21:87",
+    "themes": [
+      "invocation",
+      "repentir",
+      "pardon"
+    ],
+    "hook": {
+      "fr": "L'invocation de Younous dans le ventre de la baleine",
+      "en": "The du'a of Yunus in the belly of the whale"
+    },
+    "mots": 23
+  },
+  {
+    "id": "baqara-201",
+    "ref": "2:201",
+    "themes": [
+      "invocation"
+    ],
+    "hook": {
+      "fr": "La plus belle des invocations",
+      "en": "The most complete du'a"
+    },
+    "mots": 14
+  },
+  {
+    "id": "furqan-74",
+    "ref": "25:74",
+    "themes": [
+      "invocation",
+      "famille"
+    ],
+    "hook": {
+      "fr": "L'invocation pour ton foyer",
+      "en": "The du'a for your family"
+    },
+    "mots": 13
+  },
+  {
+    "id": "asr",
+    "ref": "103:1-3",
+    "themes": [
+      "temps"
+    ],
+    "hook": {
+      "fr": "Par le temps…",
+      "en": "By time…"
+    },
+    "mots": 14
+  },
+  {
+    "id": "ikhlas",
+    "ref": "112:1-4",
+    "themes": [
+      "tawhid"
+    ],
+    "hook": {
+      "fr": "Dis : Il est Allah, Unique",
+      "en": "Say: He is Allah, the One"
+    },
+    "mots": 15
+  },
+  {
+    "id": "yusuf-87",
+    "ref": "12:87",
+    "themes": [
+      "espoir"
+    ],
+    "hook": {
+      "fr": "Jacob exhorte ses fils à garder espoir en Allah",
+      "en": "Jacob urges his sons never to despair of Allah"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Et ne désespérez pas de la miséricorde d’Allah.",
+      "en": "despair not of relief from Allāh"
+    },
+    "mots": 20
+  },
+  {
+    "id": "baqarah-214",
+    "ref": "2:214",
+    "themes": [
+      "espoir",
+      "patience"
+    ],
+    "hook": {
+      "fr": "Même au cœur de l’épreuve, le secours d’Allah est proche",
+      "en": "Even in the hardest trial, the help of Allah is near"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Certes, le secours d’Allah est sûrement proche.",
+      "en": "Unquestionably, the help of Allāh is near."
+    },
+    "mots": 30
+  },
+  {
+    "id": "duhaa-1-5",
+    "ref": "93:1-5",
+    "themes": [
+      "espoir",
+      "tristesse"
+    ],
+    "hook": {
+      "fr": "Allah console Son Prophète : Il ne l’a pas abandonné",
+      "en": "Allah consoles His Prophet: He has not abandoned him"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Ton Seigneur ne t’a ni abandonné, ni détesté.",
+      "en": "Your Lord has not taken leave of you, [O Muḥammad]"
+    },
+    "mots": 18
+  },
+  {
+    "id": "shu-ara-61-62",
+    "ref": "26:61-62",
+    "themes": [
+      "apaisement",
+      "espoir",
+      "confiance"
+    ],
+    "hook": {
+      "fr": "Tout semble perdu, mais Moïse sait qu’Allah le guidera",
+      "en": "All seemed lost, but Moses knew his Lord would guide him"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Jamais, car j’ai avec moi mon Seigneur qui va me guider.",
+      "en": "No! Indeed, with me is my Lord; He will guide me."
+    },
+    "mots": 14
+  },
+  {
+    "id": "baqarah-153",
+    "ref": "2:153",
+    "themes": [
+      "patience"
+    ],
+    "hook": {
+      "fr": "Patience et prière : Allah est avec les endurants",
+      "en": "Patience and prayer: Allah is with the patient"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Car Allah est avec les endurants.",
+      "en": "Indeed, Allāh is with the patient."
+    },
+    "mots": 10
+  },
+  {
+    "id": "baqarah-155-157",
+    "ref": "2:155-157",
+    "themes": [
+      "patience",
+      "tristesse"
+    ],
+    "hook": {
+      "fr": "Peur, faim, pertes : la bonne annonce aux patients",
+      "en": "Fear, hunger, loss: glad tidings to the patient"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Certes nous sommes à Allah, et c’est à Lui que nous retournerons.",
+      "en": "Indeed we belong to Allāh, and indeed to Him we will return."
+    },
+    "mots": 31
+  },
+  {
+    "id": "zumar-10",
+    "ref": "39:10",
+    "themes": [
+      "patience"
+    ],
+    "hook": {
+      "fr": "Les patients seront récompensés sans compter",
+      "en": "The patient will be rewarded without measure"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "les endurants auront leur pleine récompense sans compter.",
+      "en": "Indeed, the patient will be given their reward without account"
+    },
+    "mots": 21
+  },
+  {
+    "id": "anbya-83-84",
+    "ref": "21:83-84",
+    "themes": [
+      "patience",
+      "espoir"
+    ],
+    "hook": {
+      "fr": "Job éprouvé invoque son Seigneur, qui le délivre",
+      "en": "Job called on his Lord in hardship and was relieved"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Mais Toi, tu es le plus miséricordieux des miséricordieux",
+      "en": "You are the most merciful of the merciful."
+    },
+    "mots": 26
+  },
+  {
+    "id": "fussilat-30-32",
+    "ref": "41:30-32",
+    "themes": [
+      "tristesse",
+      "apaisement"
+    ],
+    "hook": {
+      "fr": "Aux croyants constants : ni peur ni tristesse",
+      "en": "To the steadfast believers: no fear and no grief"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "N’ayez pas peur et ne soyez pas affligés",
+      "en": "Do not fear and do not grieve"
+    },
+    "mots": 39
+  },
+  {
+    "id": "taha-45-46",
+    "ref": "20:45-46",
+    "themes": [
+      "apaisement",
+      "confiance"
+    ],
+    "hook": {
+      "fr": "Moïse et Aaron craignent Pharaon : Allah les rassure",
+      "en": "Moses and Aaron feared Pharaoh; Allah reassured them"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Ne craignez rien. Je suis avec vous: J’entends et Je vois.",
+      "en": "Fear not. Indeed, I am with you both; I hear and I see."
+    },
+    "mots": 17
+  },
+  {
+    "id": "taghabun-11",
+    "ref": "64:11",
+    "themes": [
+      "apaisement",
+      "patience"
+    ],
+    "hook": {
+      "fr": "Aucun malheur n’arrive sans la permission d’Allah",
+      "en": "No disaster strikes except by the permission of Allah"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Et quiconque croit en Allah, [Allah] guide son cœur.",
+      "en": "And whoever believes in Allāh - He will guide his heart."
+    },
+    "mots": 16
+  },
+  {
+    "id": "fajr-27-30",
+    "ref": "89:27-30",
+    "themes": [
+      "apaisement",
+      "paradis",
+      "mort"
+    ],
+    "hook": {
+      "fr": "L’âme apaisée retourne vers son Seigneur",
+      "en": "The tranquil soul returns to its Lord"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "ô toi, âme apaisée, retourne vers ton Seigneur, satisfaite et agréée",
+      "en": "O reassured soul, Return to your Lord"
+    },
+    "mots": 13
+  },
+  {
+    "id": "tawbah-51",
+    "ref": "9:51",
+    "themes": [
+      "apaisement",
+      "confiance"
+    ],
+    "hook": {
+      "fr": "Rien ne nous atteint hors ce qu’Allah a prescrit",
+      "en": "Nothing befalls us except what Allah has decreed"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Rien ne nous atteindra, en dehors de ce qu’Allah a prescrit pour nous.",
+      "en": "Never will we be struck except by what Allāh has decreed for us"
+    },
+    "mots": 14
+  },
+  {
+    "id": "nisa-110",
+    "ref": "4:110",
+    "themes": [
+      "pardon"
+    ],
+    "hook": {
+      "fr": "Tu as fauté ? Implore Allah, Il pardonne",
+      "en": "Did wrong? Ask Allah, He forgives"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "trouvera Allah Pardonneur et Miséricordieux",
+      "en": "will find Allāh Forgiving and Merciful"
+    },
+    "mots": 13
+  },
+  {
+    "id": "nuh-10-12",
+    "ref": "71:10-12",
+    "themes": [
+      "pardon"
+    ],
+    "hook": {
+      "fr": "Demander pardon attire la pluie et les bienfaits",
+      "en": "Seeking forgiveness brings rain and blessings"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Implorez le pardon de votre Seigneur, car Il est grand Pardonneur",
+      "en": "Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver"
+    },
+    "mots": 19
+  },
+  {
+    "id": "ali-imran-133-136",
+    "ref": "3:133-136",
+    "themes": [
+      "pardon"
+    ],
+    "hook": {
+      "fr": "Les pieux aussi chutent, mais ils reviennent à Allah",
+      "en": "Even the pious slip, but they return to Allah"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "et qui est-ce qui pardonne les péchés sinon Allah ?",
+      "en": "and who can forgive sins except Allāh?"
+    },
+    "mots": 62
+  },
+  {
+    "id": "a-raf-23",
+    "ref": "7:23",
+    "themes": [
+      "invocation",
+      "pardon"
+    ],
+    "hook": {
+      "fr": "L'invocation d'Adam et Ève après leur faute",
+      "en": "The plea of Adam and Eve after their mistake"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Ô notre Seigneur ! Nous avons fait du tort à nous-mêmes",
+      "en": "Our Lord, we have wronged ourselves"
+    },
+    "mots": 12
+  },
+  {
+    "id": "mu-minun-118",
+    "ref": "23:118",
+    "themes": [
+      "invocation",
+      "pardon"
+    ],
+    "hook": {
+      "fr": "Une invocation brève pour le pardon et la miséricorde",
+      "en": "A short plea for forgiveness and mercy"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Seigneur ! Pardonne et fais miséricorde !",
+      "en": "My Lord, forgive and have mercy"
+    },
+    "mots": 7
+  },
+  {
+    "id": "hud-114",
+    "ref": "11:114",
+    "themes": [
+      "priere",
+      "pardon"
+    ],
+    "hook": {
+      "fr": "Prie matin, soir et la nuit : le bien efface le mal",
+      "en": "Pray day and night: good deeds erase misdeeds"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Les bonnes œuvres dissipent les mauvaises",
+      "en": "Indeed, good deeds do away with misdeeds"
+    },
+    "mots": 14
+  },
+  {
+    "id": "ibrahim-40-41",
+    "ref": "14:40-41",
+    "themes": [
+      "invocation",
+      "priere",
+      "pardon",
+      "famille"
+    ],
+    "hook": {
+      "fr": "L'invocation d'Abraham pour la prière et le pardon",
+      "en": "Abraham's plea for prayer and forgiveness"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Ô mon Seigneur ! Fais que j’accomplisse assidûment la prière (As-Salât)",
+      "en": "My Lord, make me an establisher of prayer"
+    },
+    "mots": 17
+  },
+  {
+    "id": "ali-imran-8",
+    "ref": "3:8",
+    "themes": [
+      "invocation"
+    ],
+    "hook": {
+      "fr": "Demander à Allah de garder nos cœurs guidés",
+      "en": "Asking Allah to keep our hearts guided"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Ne laisse pas dévier nos cœurs après que Tu nous aies guidés",
+      "en": "let not our hearts deviate after You have guided us"
+    },
+    "mots": 15
+  },
+  {
+    "id": "taha-14",
+    "ref": "20:14",
+    "themes": [
+      "priere"
+    ],
+    "hook": {
+      "fr": "Allah ordonne la prière pour se souvenir de Lui",
+      "en": "Allah commands prayer for His remembrance"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Certes, c'est Moi Allah",
+      "en": "Indeed, I am Allāh"
+    },
+    "mots": 11
+  },
+  {
+    "id": "ankabut-45",
+    "ref": "29:45",
+    "themes": [
+      "priere"
+    ],
+    "hook": {
+      "fr": "La prière éloigne de la turpitude et du mal",
+      "en": "Prayer keeps you away from immorality and wrong"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "En vérité la prière (As-Salât) préserve de la turpitude et du blâmable",
+      "en": "Indeed, prayer prohibits immorality and wrongdoing"
+    },
+    "mots": 21
+  },
+  {
+    "id": "baqarah-45-46",
+    "ref": "2:45-46",
+    "themes": [
+      "priere"
+    ],
+    "hook": {
+      "fr": "Patience et prière : là où chercher de l'aide",
+      "en": "Patience and prayer: where to seek help"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Et cherchez assistance dans l’endurance et la prière (Aṣ-Ṣalāt)",
+      "en": "And seek help through patience and prayer"
+    },
+    "mots": 16
+  },
+  {
+    "id": "anfal-2-4",
+    "ref": "8:2-4",
+    "themes": [
+      "confiance",
+      "priere"
+    ],
+    "hook": {
+      "fr": "Portrait des vrais croyants : foi, prière, confiance",
+      "en": "The true believers: faith, prayer and trust"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Et ils placent leur confiance en leur Seigneur",
+      "en": "and upon their Lord they rely"
+    },
+    "mots": 34
+  },
+  {
+    "id": "tawbah-129",
+    "ref": "9:129",
+    "themes": [
+      "confiance"
+    ],
+    "hook": {
+      "fr": "Quand on se détourne de toi, Allah te suffit",
+      "en": "When people turn away, Allah is enough"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Allah me suffit ! Il n’y a de divinité que Lui",
+      "en": "Sufficient for me is Allāh; there is no deity except Him"
+    },
+    "mots": 15
+  },
+  {
+    "id": "qaf-19",
+    "ref": "50:19",
+    "themes": [
+      "mort"
+    ],
+    "hook": {
+      "fr": "Au moment de mourir, la vérité éclate",
+      "en": "At death, the truth becomes clear"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "L’agonie de la mort fait apparaître la vérité",
+      "en": "And the intoxication of death will bring the truth"
+    },
+    "mots": 9
+  },
+  {
+    "id": "waqi-ah-83-87",
+    "ref": "56:83-87",
+    "themes": [
+      "mort"
+    ],
+    "hook": {
+      "fr": "Quand l’âme atteint la gorge, nul ne peut la ramener",
+      "en": "When the soul reaches the throat, none can bring it back"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Nous sommes plus proche de lui que vous",
+      "en": "nearer to him than you, but you do not see"
+    },
+    "mots": 23
+  },
+  {
+    "id": "mu-minun-99-100",
+    "ref": "23:99-100",
+    "themes": [
+      "mort"
+    ],
+    "hook": {
+      "fr": "Le regret de celui qui supplie de revenir sur terre",
+      "en": "The regret of the one who begs to be sent back"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Derrière eux, cependant, il y a une barrière, jusqu’au jour où ils seront ressuscités.",
+      "en": "behind them is a barrier until the Day they are resurrected"
+    },
+    "mots": 24
+  },
+  {
+    "id": "munafiqun-10-11",
+    "ref": "63:10-11",
+    "themes": [
+      "mort"
+    ],
+    "hook": {
+      "fr": "Donne avant que la mort ne vienne, aucun délai après",
+      "en": "Give before death comes: no delay will be granted"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Allah cependant n’accorde jamais de délai à une âme dont le terme est arrivé.",
+      "en": "But never will Allāh delay a soul when its time has come."
+    },
+    "mots": 32
+  },
+  {
+    "id": "zalzalah-6-8",
+    "ref": "99:6-8",
+    "themes": [
+      "jugement"
+    ],
+    "hook": {
+      "fr": "Le moindre atome de bien ou de mal sera vu",
+      "en": "Every atom of good or evil will be seen"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Quiconque fait un bien fût-ce du poids d’un atome, le verra",
+      "en": "So whoever does an atom's weight of good will see it"
+    },
+    "mots": 18
+  },
+  {
+    "id": "abasa-33-37",
+    "ref": "80:33-37",
+    "themes": [
+      "jugement"
+    ],
+    "hook": {
+      "fr": "Le jour où chacun fuira ses proches",
+      "en": "The Day everyone will flee their loved ones"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Le jour où l’homme s’enfuira de son frère.",
+      "en": "On the Day a man will flee from his brother"
+    },
+    "mots": 18
+  },
+  {
+    "id": "isra-13-14",
+    "ref": "17:13-14",
+    "themes": [
+      "jugement"
+    ],
+    "hook": {
+      "fr": "Ton livre s’ouvre devant toi : lis tes propres actes",
+      "en": "Your record laid open: read your own deeds"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Lis ton écrit ! Aujourd’hui, tu te suffis d’être ton propre comptable.",
+      "en": "Read your record. Sufficient is yourself against you this Day as accountant."
+    },
+    "mots": 20
+  },
+  {
+    "id": "infitar-1-5",
+    "ref": "82:1-5",
+    "themes": [
+      "jugement"
+    ],
+    "hook": {
+      "fr": "Ciel brisé, tombes ouvertes : chaque âme saura",
+      "en": "Sky torn, graves overturned: every soul will know"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "toute âme saura alors ce qu’elle a accompli"
+    },
+    "mots": 17
+  },
+  {
+    "id": "zumar-73-74",
+    "ref": "39:73-74",
+    "themes": [
+      "paradis"
+    ],
+    "hook": {
+      "fr": "L’accueil des pieux aux portes du Paradis",
+      "en": "The righteous welcomed at the gates of Paradise"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Salut à vous ! Vous avez été bons : entrez donc, pour y demeurer éternellement.",
+      "en": "Peace be upon you; you have become pure"
+    },
+    "mots": 36
+  },
+  {
+    "id": "sajdah-17",
+    "ref": "32:17",
+    "themes": [
+      "paradis"
+    ],
+    "hook": {
+      "fr": "La récompense cachée que nul ne connaît",
+      "en": "A hidden joy no soul can know"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Aucun être ne sait ce qu’on a réservé pour eux",
+      "en": "And no soul knows what has been hidden for them"
+    },
+    "mots": 13
+  },
+  {
+    "id": "qaf-31-35",
+    "ref": "50:31-35",
+    "themes": [
+      "paradis"
+    ],
+    "hook": {
+      "fr": "Le Paradis rapproché, et plus encore auprès d’Allah",
+      "en": "Paradise brought near, and even more with Allah"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Et auprès de Nous il y a davantage encore.",
+      "en": "They will have whatever they wish therein, and with Us is more."
+    },
+    "mots": 29
+  },
+  {
+    "id": "hadid-20",
+    "ref": "57:20",
+    "themes": [
+      "dunya"
+    ],
+    "hook": {
+      "fr": "La vie d’ici-bas : un jeu qui se fane comme l’herbe",
+      "en": "This life: a game that withers like plants"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Sachez que la vie présente n’est que jeu, amusement, vaine parure",
+      "en": "Know that the life of this world is but amusement and diversion and adornment"
+    },
+    "mots": 39
+  },
+  {
+    "id": "kahf-45-46",
+    "ref": "18:45-46",
+    "themes": [
+      "dunya"
+    ],
+    "hook": {
+      "fr": "Ce monde se fane, les bonnes œuvres demeurent",
+      "en": "This world withers, good deeds endure"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Cependant, les bonnes œuvres qui perdurent ont auprès de ton Seigneur une meilleure récompense",
+      "en": "But the enduring good deeds are better to your Lord for reward"
+    },
+    "mots": 36
+  },
+  {
+    "id": "ankabut-64",
+    "ref": "29:64",
+    "themes": [
+      "dunya"
+    ],
+    "hook": {
+      "fr": "La vraie vie, c’est celle de l’au-delà",
+      "en": "The true life is the life to come"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Cette vie d’ici-bas n’est qu’amusement et jeu.",
+      "en": "And this worldly life is not but diversion and amusement."
+    },
+    "mots": 15
+  },
+  {
+    "id": "takathur-1-4",
+    "ref": "102:1-4",
+    "themes": [
+      "dunya",
+      "mort"
+    ],
+    "hook": {
+      "fr": "Distraits par la course aux richesses jusqu’à la tombe",
+      "en": "Distracted by chasing more until the grave"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "La course aux richesses vous distrait, jusqu’à ce que vous visitiez les tombes",
+      "en": "Competition in [worldly] increase diverts you Until you visit the graveyards."
+    },
+    "mots": 12
+  },
+  {
+    "id": "a-la-16-17",
+    "ref": "87:16-17",
+    "themes": [
+      "dunya"
+    ],
+    "hook": {
+      "fr": "Préférer ce monde alors que l’au-delà vaut mieux",
+      "en": "Choosing this world when the next is better"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "alors que l’au-delà est meilleur et plus durable.",
+      "en": "While the Hereafter is better and more enduring."
+    },
+    "mots": 7
+  },
+  {
+    "id": "ibrahim-7",
+    "ref": "14:7",
+    "themes": [
+      "gratitude"
+    ],
+    "hook": {
+      "fr": "Remercie Allah, Il augmentera Ses bienfaits",
+      "en": "Be grateful, and Allah will give you more"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Si vous êtes reconnaissants, très certainement J’augmenterai [Mes bienfaits] pour vous",
+      "en": "If you are grateful, I will surely increase you [in favor]"
+    },
+    "mots": 11
+  },
+  {
+    "id": "nahl-18",
+    "ref": "16:18",
+    "themes": [
+      "gratitude"
+    ],
+    "hook": {
+      "fr": "Les bienfaits d’Allah sont impossibles à compter",
+      "en": "Allah's blessings are too many to count"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Et si vous essayiez de compter les bienfaits d'Allah, vous ne sauriez les dénombrer",
+      "en": "And if you should count the favors of Allāh, you could not enumerate them"
+    },
+    "mots": 10
+  },
+  {
+    "id": "luqman-12",
+    "ref": "31:12",
+    "themes": [
+      "gratitude"
+    ],
+    "hook": {
+      "fr": "La sagesse de Luqman : être reconnaissant envers Allah",
+      "en": "Luqman's wisdom: be grateful to Allah"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Sois reconnaissant envers Allah",
+      "en": "Be grateful to Allāh"
+    },
+    "mots": 18
+  },
+  {
+    "id": "ahqaf-15",
+    "ref": "46:15",
+    "themes": [
+      "famille",
+      "gratitude"
+    ],
+    "hook": {
+      "fr": "Bonté envers les parents et gratitude envers Allah",
+      "en": "Kindness to parents and gratitude to Allah"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Inspire-moi pour que je rende grâce au bienfait dont Tu m’as comblé",
+      "en": "My Lord, enable me to be grateful for Your favor"
+    },
+    "mots": 45
+  },
+  {
+    "id": "luqman-14",
+    "ref": "31:14",
+    "themes": [
+      "famille",
+      "gratitude"
+    ],
+    "hook": {
+      "fr": "Remercie Allah et remercie tes parents",
+      "en": "Thank Allah, and thank your parents"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Sois reconnaissant envers Moi ainsi qu’envers tes parents",
+      "en": "Be grateful to Me and to your parents"
+    },
+    "mots": 17
+  },
+  {
+    "id": "nahl-78",
+    "ref": "16:78",
+    "themes": [
+      "creation",
+      "gratitude"
+    ],
+    "hook": {
+      "fr": "Né sans rien savoir, Allah t’a donné ouïe, vue et cœur",
+      "en": "Born knowing nothing, gifted hearing, sight and heart"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Allah vous a fait sortir des ventres de vos mères, dénués de tout savoir",
+      "en": "Allāh has extracted you from the wombs of your mothers not knowing a thing"
+    },
+    "mots": 15
+  },
+  {
+    "id": "rahman-10-13",
+    "ref": "55:10-13",
+    "themes": [
+      "creation",
+      "gratitude"
+    ],
+    "hook": {
+      "fr": "La terre, ses fruits et ses parfums : des bienfaits d’Allah",
+      "en": "The earth and its fruits: which favor will you deny?"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Quant à la terre, Il l’a étendue pour les êtres vivants",
+      "en": "And the earth He laid [out] for the creatures"
+    },
+    "mots": 16
+  },
+  {
+    "id": "ghashiyah-17-20",
+    "ref": "88:17-20",
+    "themes": [
+      "creation"
+    ],
+    "hook": {
+      "fr": "Regarde le chameau, le ciel, les montagnes, la terre",
+      "en": "Look at the camel, the sky, the mountains, the earth"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Ne considèrent-ils donc pas les chameaux, comment ils ont été créés",
+      "en": "Then do they not look at the camels - how they are created?"
+    },
+    "mots": 18
+  },
+  {
+    "id": "baqarah-164",
+    "ref": "2:164",
+    "themes": [
+      "creation"
+    ],
+    "hook": {
+      "fr": "Ciel, terre, nuit, mer, pluie, vents : autant de signes",
+      "en": "Sky, sea, rain and winds: signs for those who reason"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "en tout cela il y a des signes, pour un peuple qui raisonne",
+      "en": "are signs for a people who use reason"
+    },
+    "mots": 43
+  },
+  {
+    "id": "isra-23-24",
+    "ref": "17:23-24",
+    "themes": [
+      "famille"
+    ],
+    "hook": {
+      "fr": "Douceur et miséricorde envers ses parents âgés",
+      "en": "Gentleness and mercy toward aging parents"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Fais-leur, à tous deux, miséricorde comme ils m’ont élevé tout petit",
+      "en": "My Lord, have mercy upon them as they brought me up"
+    },
+    "mots": 37
+  },
+  {
+    "id": "rum-21",
+    "ref": "30:21",
+    "themes": [
+      "famille",
+      "creation"
+    ],
+    "hook": {
+      "fr": "Le couple, l’affection et la bonté : un signe d’Allah",
+      "en": "Spouses, affection and mercy: a sign of Allah"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Il a mis entre vous de l’affection et de la bonté",
+      "en": "He placed between you affection and mercy"
+    },
+    "mots": 20
+  },
+  {
+    "id": "hadid-4",
+    "ref": "57:4",
+    "themes": [
+      "proximite",
+      "creation"
+    ],
+    "hook": {
+      "fr": "Où que tu sois, Allah est avec toi",
+      "en": "Wherever you are, Allah is with you"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Il est avec vous où que vous soyez",
+      "en": "He is with you wherever you are"
+    },
+    "mots": 36
+  },
+  {
+    "id": "naml-62",
+    "ref": "27:62",
+    "themes": [
+      "proximite"
+    ],
+    "hook": {
+      "fr": "Allah répond à l’appel de celui qui est en détresse",
+      "en": "Allah answers the distressed when they call Him"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "N’est-ce pas Lui qui répond à l'homme en détresse quand il L’invoque",
+      "en": "who responds to the desperate one when he calls upon Him"
+    },
+    "mots": 16
+  },
+  {
+    "id": "shu-ara-217-220",
+    "ref": "26:217-220",
+    "themes": [
+      "proximite"
+    ],
+    "hook": {
+      "fr": "Place ta confiance en Allah, Il te voit",
+      "en": "Trust in Allah, He sees you when you stand"
+    },
+    "formats": [
+      "surligne",
+      "court"
+    ],
+    "surligne": {
+      "fr": "Celui qui te voit quand tu te lèves",
+      "en": "Who sees you when you arise"
+    },
+    "mots": 15
+  },
+  {
+    "id": "mujadila-7",
+    "ref": "58:7",
+    "themes": [
+      "proximite"
+    ],
+    "hook": {
+      "fr": "Aucune parole secrète n’échappe à Allah",
+      "en": "No secret conversation escapes Allah"
+    },
+    "formats": [
+      "surligne"
+    ],
+    "surligne": {
+      "fr": "Pas de conversation secrète entre trois sans qu’Il ne soit leur quatrième",
+      "en": "He is with them [in knowledge] wherever they are"
+    },
+    "mots": 47
+  }
+]

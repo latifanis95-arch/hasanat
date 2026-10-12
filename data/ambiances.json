@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pluie-legere",
+    "label": "Pluie légère, tonnerre lointain",
+    "calm": true,
+    "source": "File:Light Rain Distant Thunder July 5th 2016.wav",
+    "license": "CC0",
+    "author": "kvgarlic (freesound.org)",
+    "start": 0,
+    "duration": 110
+  },
+  {
+    "id": "pluie-vitre",
+    "label": "Pluie contre une vitre",
+    "calm": true,
+    "source": "File:Rain against the window.ogg",
+    "license": "Domaine public",
+    "author": "cori",
+    "start": 0,
+    "duration": 81
+  },
+  {
+    "id": "pluie-douce",
+    "label": "Pluie régulière et douce",
+    "calm": true,
+    "source": "File:Rain (1).ogg",
+    "license": "Domaine public",
+    "author": "ezwa",
+    "start": 0,
+    "duration": 45
+  },
+  {
+    "id": "vagues",
+    "label": "Vagues sur une plage",
+    "calm": true,
+    "source": "File:Ocean Waves on a Tropical Beach.ogg",
+    "license": "CC0",
+    "author": "Jarrod Stanley",
+    "start": 10,
+    "duration": 120
+  },
+  {
+    "id": "oiseaux",
+    "label": "Chants d'oiseaux, matin ensoleillé",
+    "calm": true,
+    "source": "File:Birdsong mild sunny day.ogg",
+    "license": "Domaine public",
+    "author": "stephan",
+    "start": 0,
+    "duration": 36
+  },
+  {
+    "id": "oiseaux-aube",
+    "label": "Réveil des oiseaux à l'aube (plus dense)",
+    "calm": true,
+    "source": "File:Réveil des oiseaux.ogg",
+    "license": "CC0",
+    "author": "Joseph Sardin",
+    "start": 5,
+    "duration": 120
+  },
+  {
+    "id": "ruisseau",
+    "label": "Ruisseau, eau qui coule",
+    "calm": true,
+    "source": "File:433589 jackthemurray stream-river-water-up-close.wav",
+    "license": "CC0",
+    "author": "jackthemurray (freesound.org)",
+    "start": 0,
+    "duration": 68
+  },
+  {
+    "id": "orage",
+    "label": "Orage (pour les vidéos choc, pas pour les rappels calmes)",
+    "calm": false,
+    "source": "File:Thunderstorm after hot summer day 17 minutes 01 of 04.ogg",
+    "license": "Domaine public",
+    "author": "stephan",
+    "start": 0,
+    "duration": 120
+  }
+]
